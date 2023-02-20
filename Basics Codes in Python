@@ -1,0 +1,46 @@
+BR-BRASIL-BRAZIL
+
+# irei definir uma variavel nome
+nome = 'Ribeiro'
+# irei definir para exibir essa variavel nome
+print (nome),
+# irei definir uma variavel sobre a idade de Ribeiro
+idade = 20
+# irei definir para exibir essa variavel sobre a idade de Ribeiro
+print (idade),
+# irei definir uma variavel sobre a data de nascimento de Ribeiro
+ano_de_nascimento = 2022 - idade
+# irei definir para exibir a data de nascimento de Ribeiro
+print (ano_de_nascimento),
+# irei definir se Ribeiro é maior de idade ou não!
+maior_de_idade = idade >= 18
+# irei exibir se Ribeiro é ou não maior de idade
+print (maior_de_idade),
+#irei definir a altura de Ribeiro
+altura = 1.78
+# irei exibir a altura de Ribeiro
+print (altura),
+
+
+ING-INGLES-ENGLISH
+
+# I will define a variable name
+name = 'River'
+# I will define to display this variable name
+print(name),
+# I will define a variable about Ribeiro's age
+age = 20
+# I will define to display this variable about Ribeiro's age
+print(age),
+# I will define a variable about Ribeiro's date of birth
+birth_year = 2022 - age
+# I will define to display Ribeiro's date of birth
+print(year_of_birth),
+# I will define whether Ribeiro is of legal age or not!
+major_of_age = age >= 18
+# I will display whether or not Ribeiro is of legal age
+print(greater_of_age),
+#I will define the height of Ribeiro
+height = 1.78
+# I will display the height of Ribeiro
+print(height),
